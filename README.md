@@ -1,7 +1,7 @@
 # DecisionTree-Optimization
 Developing a Decision Tree for a problem to identify the best decision to make using PrecisionTree tool
 
-alDev Associates, Inc., a property development firm, purchased in 2012 a large old house near a town 
+CalDev Associates, Inc., a property development firm, purchased in 2012 a large old house near a town 
 square in Concord. The old house was built in the late-1960s and the CalDev Associates restored it. 
 For more than a decade, the company has leased the house to the nearby college for academic office 
 space. The house is located on a wide lawn and has become a town landmark.  
